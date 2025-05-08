@@ -16,6 +16,8 @@ Use the web API (link : https://raw.githubusercontent.com/saaslabsco/frontend-as
 
 1. Ensure that the UI is aesthetically pleasing to gain extra points.
 1. Implement pagination with maximum 5 records per page.
+1. UX should remain like you would see on an ecommerce website (Amazon, Flipkart, etc.) and edge cases should not break.
+1. Take care of last page.
 
 ### Expected Output format
 
